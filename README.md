@@ -12,7 +12,7 @@ HangFire, .NET Core uygulamalarına özgü değildir.
 
 
 // ---- DashBoard'a 
-https://localhost:7272/hangfire ile erişebiliriz.
+https://localhost:7272/hangfire ile erişebiliriz. => proje localhost:7272 de çalışıyor.
 
 
 Panelde job's inceleyebilir veya tetikleyebiliriz. 
